@@ -16,7 +16,7 @@ const teamData = {
   ],
   otherTeam: [
     { name: '1', imageUrl: '/tim/tim1.jpg' },
-    { name: '2', imageUrl: '/tim/tim2.jpeg' },
+    { name: '2', imageUrl: '/tim/tim2.JPEG' },
     { name: '3', imageUrl: '/tim/tim3.1.jpg' },
     { name: '4', imageUrl: '/tim/tim3.jpeg' },
     { name: '5', imageUrl: '/tim/tim4.jpg' },
