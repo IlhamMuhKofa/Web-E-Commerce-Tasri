@@ -35,6 +35,7 @@ const Sejarah = () => {
                             className="text-gray-700 text-justify leading-relaxed"
                         >
                             oleh dua anak dari Kota Payakumbuh, Sumatra Barat, yaitu H. Tito Idroes, S.Sos dan Hj. Ir. Diana Anggraini. Kota Payakumbuh, yang terkenal dengan Gunung Sago, terletak di Kabupaten Lima Puluh Kota. Sebagian kaki Gunung Sago berada di wilayah Payakumbuh. Gunung ini sudah tidak aktif selama ratusan tahun, namun tetap memiliki hutan lebat yang menjadi sumber air yang melimpah bagi masyarakat setempat. Hingga saat ini, Gunung Sago tetap kokoh dan terjaga karena hutan sekitarnya dilindungi dan tidak ditebang secara liar.
+                            Secara geografis, Kota Payakumbuh dan Kabupaten Lima Puluh Kota terletak di antara Kota Padang dan Pekanbaru. Jaraknya kurang lebih sama ke kedua kota tersebut, sehingga wilayah ini menjadi jalur utama perjalanan antara provinsi Sumatra Barat dan Riau.
                         </motion.p>
                     </div>
                     <div className="flex justify-center">
@@ -84,6 +85,8 @@ const Sejarah = () => {
                             className="text-gray-700 text-justify leading-relaxed"
                         >
                             Kami terus berkembang dan berinovasi untuk menjadi pemimpin dalam industri ini. Dengan teknologi canggih dan sumber daya manusia yang handal, Tasri berkomitmen untuk terus membawa produk berkualitas ke masyarakat luas dan menjaga lingkungan sekitar.
+                            Perusahaan Tasri didirikan pada tahun 2004 oleh dua anak dari Kota Payakumbuh, Sumatra Barat, yaitu H. Tito Idroes, S.Sos dan Hj. Ir. Diana Anggraini. Kota Payakumbuh, yang terkenal dengan Gunung Sago, terletak di Kabupaten Lima Puluh Kota. Sebagian kaki Gunung Sago berada di wilayah Payakumbuh. Gunung ini sudah tidak aktif selama ratusan tahun, namun tetap memiliki hutan lebat yang menjadi sumber air yang melimpah bagi masyarakat setempat. Hingga saat ini, Gunung Sago tetap kokoh dan terjaga karena hutan sekitarnya dilindungi dan tidak ditebang secara liar.
+                            Secara geografis, Kota Payakumbuh dan Kabupaten Lima Puluh Kota terletak di antara Kota Padang dan Pekanbaru. Jaraknya kurang lebih sama ke kedua kota tersebut, sehingga wilayah ini menjadi jalur utama perjalanan antara provinsi Sumatra Barat dan Riau.
                         </motion.p>
                     </div>
                 </motion.div>
