@@ -61,7 +61,7 @@ const TeamPage: React.FC = () => {
               key={index}
               className="text-center bg-white shadow-md rounded-lg p-6 transform hover:scale-105 hover:shadow-lg"
             >
-              <div className="w-36 h-36 rounded-full overflow-hidden mx-auto">
+              <div className="w-28 h-28 rounded-full overflow-hidden mx-auto">
                 <img
                   src={leader.imageUrl}
                   alt={leader.name}
