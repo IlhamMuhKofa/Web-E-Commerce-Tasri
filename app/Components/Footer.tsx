@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between px-4 md:px-16">
         {/* Logo dan Info Perusahaan */}
         <div className="flex flex-col items-center md:items-start mb-6 md:mb-0 md:mr-16">
-          <Image src="/logo.png" alt="Logo" width={150} height={90} />
+          <Image src="/icon/logo.png" alt="Logo" width={150} height={90} />
           <p className="mt-2 text-lg font-semibold">CV. Multi Rejeki Selaras</p>
           <p className="text-sm md:text-base">Tasri, Nyata Segarnya</p>
           <div className="flex space-x-6 mt-4">
