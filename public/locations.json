@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Padang",
+    "position": [0.9471, 100.4172],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 2,
+    "name": "Bukittinggi",
+    "position": [-0.3054, 100.3692],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 3,
+    "name": "Payakumbuh",
+    "position": [-0.2261, 100.6307],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 4,
+    "name": "Pariaman",
+    "position": [0.6293, 100.1207],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 5,
+    "name": "Solok",
+    "position": [-0.7903, 100.6529],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 6,
+    "name": "Sawahlunto",
+    "position": [-0.6875, 100.7734],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 7,
+    "name": "Padang Panjang",
+    "position": [-0.4566, 100.4058],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 8,
+    "name": "Kabupaten Solok",
+    "position": [-0.7933, 100.6587],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 9,
+    "name": "Kabupaten Sijunjung",
+    "position": [-1.1126, 100.9293],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 10,
+    "name": "Pesisir Selatan",
+    "position": [-1.7123, 100.8267],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 11,
+    "name": "Kabupaten Agam",
+    "position": [0.1570, 100.1504],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 12,
+    "name": "Kabupaten Tanah Datar",
+    "position": [-0.4772, 100.5846],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 13,
+    "name": "Kabupaten Dharmasraya",
+    "position": [-1.0956, 101.6006],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 14,
+    "name": "Kabupaten Pasaman",
+    "position": [0.2379, 99.9767],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 15,
+    "name": "Kabupaten Pasaman Barat",
+    "position": [0.1356, 99.7778],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 16,
+    "name": "Kabupaten Lima Puluh Kota",
+    "position": [-0.1895, 100.5954],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 17,
+    "name": "Kabupaten Padang Pariaman",
+    "position": [-0.4914, 100.2928],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 18,
+    "name": "Kota Mentawai",
+    "position": [-2.0162, 99.6341],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 19,
+    "name": "Kabupaten Kepulauan Mentawai",
+    "position": [-1.9942, 99.6214],
+    "icon": "/icon/icon.1.png"
+  },
+  {
+    "id": 20,
+    "name": "Kabupaten Kota Pariaman",
+    "position": [-0.6223, 100.1076],
+    "icon": "/icon/icon.1.png"
+  }
+]

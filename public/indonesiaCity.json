@@ -1,0 +1,107 @@
+[
+    {
+      "province": "Aceh",
+      "cities": ["Banda Aceh", "Sabang", "Langsa", "Lhokseumawe", "Meulaboh"]
+    },
+    {
+      "province": "Sumatera Utara",
+      "cities": ["Medan", "Binjai", "Pematang Siantar", "Tanjung Balai", "Sibolga"]
+    },
+    {
+      "province": "Sumatera Barat",
+      "cities": ["Padang", "Bukittinggi", "Payakumbuh", "Solok", "Pariaman"]
+    },
+    {
+      "province": "Riau",
+      "cities": ["Pekanbaru", "Dumai", "Bengkalis", "Siak", "Pelalawan", "Perawang"]
+    },
+    {
+      "province": "Jambi",
+      "cities": ["Jambi", "Sungai Penuh", "Muara Bungo", "Kuala Tungkal"]
+    },
+    {
+      "province": "Sumatera Selatan",
+      "cities": ["Palembang", "Lubuklinggau", "Pagar Alam", "Prabumulih"]
+    },
+    {
+      "province": "Bengkulu",
+      "cities": ["Bengkulu", "Mukomuko", "Rejang Lebong"]
+    },
+    {
+      "province": "Lampung",
+      "cities": ["Bandar Lampung", "Metro", "Kalianda", "Pringsewu"]
+    },
+    {
+      "province": "DKI Jakarta",
+      "cities": ["Jakarta Pusat", "Jakarta Utara", "Jakarta Barat", "Jakarta Selatan", "Jakarta Timur"]
+    },
+    {
+      "province": "Jawa Barat",
+      "cities": ["Bandung", "Bekasi", "Bogor", "Depok", "Cirebon"]
+    },
+    {
+      "province": "Jawa Tengah",
+      "cities": ["Semarang", "Surakarta", "Magelang", "Salatiga", "Pekalongan"]
+    },
+    {
+      "province": "DI Yogyakarta",
+      "cities": ["Yogyakarta"]
+    },
+    {
+      "province": "Jawa Timur",
+      "cities": ["Surabaya", "Malang", "Kediri", "Madiun", "Blitar"]
+    },
+    {
+      "province": "Banten",
+      "cities": ["Serang", "Cilegon", "Tangerang", "Tangerang Selatan"]
+    },
+    {
+      "province": "Bali",
+      "cities": ["Denpasar", "Singaraja"]
+    },
+    {
+      "province": "Nusa Tenggara Barat",
+      "cities": ["Mataram", "Bima", "Sumbawa Besar"]
+    },
+    {
+      "province": "Nusa Tenggara Timur",
+      "cities": ["Kupang", "Ende", "Maumere"]
+    },
+    {
+      "province": "Kalimantan Barat",
+      "cities": ["Pontianak", "Singkawang", "Ketapang"]
+    },
+    {
+      "province": "Kalimantan Tengah",
+      "cities": ["Palangka Raya", "Sampit"]
+    },
+    {
+      "province": "Kalimantan Selatan",
+      "cities": ["Banjarmasin", "Banjarbaru", "Martapura"]
+    },
+    {
+      "province": "Kalimantan Timur",
+      "cities": ["Samarinda", "Balikpapan", "Bontang"]
+    },
+    {
+      "province": "Sulawesi Utara",
+      "cities": ["Manado", "Bitung", "Tomohon"]
+    },
+    {
+      "province": "Sulawesi Tengah",
+      "cities": ["Palu", "Poso", "Donggala"]
+    },
+    {
+      "province": "Sulawesi Selatan",
+      "cities": ["Makassar", "Parepare", "Palopo"]
+    },
+    {
+      "province": "Maluku",
+      "cities": ["Ambon", "Tual"]
+    },
+    {
+      "province": "Papua",
+      "cities": ["Jayapura", "Biak"]
+    }
+  ]
+  
