@@ -12,7 +12,7 @@ const Events: React.FC = () => {
       <div className="flex justify-center">
         <div className="relative w-full max-w-sm md:max-w-md lg:max-w-lg h-48 md:h-64 lg:h-80 bg-gray-200 rounded-lg overflow-hidden">
           <Image
-            src="/event-1.jpg"
+            src="/event/event-1.jpg"
             alt="Event Poster"
             layout="fill"
             style={{ objectFit: 'cover' }} // Mengganti objectFit dengan style
