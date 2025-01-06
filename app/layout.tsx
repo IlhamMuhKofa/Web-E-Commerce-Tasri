@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" type="image/png" sizes="256x256" href="/Logo-2.1.png" />
+        <link rel="icon" type="image/png" sizes="256x256" href="/icon/Logo-2__.png" />
       </head>
       <body className={poppins.className}>
         <Navbar />
