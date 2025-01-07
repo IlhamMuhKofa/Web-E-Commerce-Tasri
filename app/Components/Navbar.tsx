@@ -167,12 +167,11 @@ const Navbar = () => {
                     <FaShoppingCart className="mr-2 text-green-500" /> Pesan Produk
                   </a>
                 </li>
-                {/* 
                 <li className="bg-yellow-100 hover:bg-yellow-200">
                   <a href="/MenuUtama/Pendaftaran" className="flex items-center text-black" onClick={toggleMenu}>
                     <FaCalendarAlt className="mr-2 text-yellow-500" /> Daftar Event
                   </a>
-                </li>*/}
+                </li>
               </ul>
             )}
           </li>
