@@ -5,13 +5,13 @@ const Galeri = () => {
   // Daftar URL gambar untuk bagian Perusahaan
   const perusahaanImages = [
     '/Galeri/1.jpg',
+    '/Galeri/1.jpg',
+    '/Galeri/1.jpg',
+    '/Galeri/1.jpg',
     '/Galeri/2.jpg',
-    '/images/company3.jpg',
-    '/images/company4.jpg',
-    '/images/company5.jpg',
-    '/images/company6.jpg',
-    '/images/company7.jpg',
-    '/images/company8.jpg',
+    '/Galeri/2.jpg',
+    '/Galeri/2.jpg',
+    '/Galeri/2.jpg',
   ];
 
   // Daftar URL gambar untuk bagian Events
