@@ -8,50 +8,50 @@ const articles = [
     id: 1,
     title: "Manfaat Air Minum Tasri untuk Hidup Sehat",
     excerpt: "Ketahui mengapa Air Minum Tasri menjadi pilihan tepat untuk menjaga tubuh tetap sehat dan segar.",
-    imageUrl: "/artikel/digital.2.jpg",
+    imageUrl: "/artikel/Banner1.jpg",
   },
   {
     id: 2,
     title: "Air Minum Berkualitas dengan Harga Terjangkau",
     excerpt: "Air Minum Tasri tidak hanya menyegarkan, tapi juga ramah di kantong. Cocok untuk kebutuhan sehari-hari.",
-    imageUrl: "/artikel/makanansehat.2.jpg",
+    imageUrl: "/artikel/Banner1.jpg",
 
   },
   {
     id: 3,
     title: "Tips Memilih Air Minum yang Aman dan Berkualitas",
     excerpt: "Pelajari cara memilih air minum yang aman dikonsumsi, seperti Air Minum Tasri.",
-    imageUrl: "/artikel/traveling.2.jpg",
+    imageUrl: "/artikel/Banner1.jpg",
   },
   {
     id: 4,
     title: "Hidrasi Optimal dengan Air Minum Tasri",
     excerpt: "Mengapa hidrasi penting dan bagaimana Air Minum Tasri dapat memenuhi kebutuhan cairan tubuh Anda.",
-    imageUrl: "/artikel/waktu.2.jpg",
+    imageUrl: "/artikel/Banner1.jpg",
   },
   {
     id: 5,
     title: "Perjalanan Air Minum Tasri dari Sumber ke Botol",
     excerpt: "Mengintip proses produksi Air Minum Tasri yang menjamin kualitas dan kesegarannya.",
-    imageUrl: "/artikel/teknologi.2.jpg",
+    imageUrl: "/artikel/Banner1.jpg",
   },
   {
     id: 6,
     title: "Air Minum Tasri: Solusi Praktis untuk Aktivitas Sehari-hari",
     excerpt: "Selalu siap menemani setiap momen penting Anda, dari bekerja hingga berolahraga.",
-    imageUrl: "/artikel/habbit.2.jpg",
+    imageUrl: "/artikel/Banner1.jpg",
   },
   {
     id: 7,
     title: "Mengapa Minum Air yang Cukup Sangat Penting?",
     excerpt: "Penjelasan tentang pentingnya hidrasi dan peran Air Minum Tasri dalam menjaga kesehatan.",
-    imageUrl: "/artikel/sleep.jpg",
+    imageUrl: "/artikel/Banner1.jpg",
   },
   {
     id: 8,
     title: "Air Minum Tasri, Pilihan Tepat untuk Segala Usia",
     excerpt: "Air Minum Tasri cocok untuk anak-anak, dewasa, hingga lansia. Aman dan berkualitas untuk seluruh keluarga.",
-    imageUrl: "/artikel/books.jpg",
+    imageUrl: "/artikel/Banner1.jpg",
   },
 ];
 
