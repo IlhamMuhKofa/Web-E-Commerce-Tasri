@@ -14,9 +14,9 @@ const ManfaatSection: React.FC = () => {
       </div>
 
       {/* Konten */}
-      <div>
-        <h2 className="text-3xl font-bold mb-4">Kenapa Harus Tasri?</h2>
-        <p className="text-gray-600 text-justify mb-6 mr-12">
+      <div className="px-6 md:px-12 lg:px-16">
+        <h2 className="text-3xl font-bold mb-4 text-center md:text-left">Kenapa Harus Tasri?</h2>
+        <p className="text-gray-600 text-justify mb-6">
           Tasri hadir sebagai pilihan terbaik untuk memenuhi kebutuhan hidrasi Anda.
           Diproduksi dengan standar tinggi, Tasri menawarkan kualitas air mineral yang sehat,
           alami, dan terpercaya. Nikmati kesegaran murni dari sumber air pegunungan yang tersertifikasi dan aman untuk seluruh keluarga.
