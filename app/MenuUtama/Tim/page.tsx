@@ -8,11 +8,11 @@ const teamData = {
     imageUrl: '/tim/bapak tito.png',
   },
   hrLeaders: [
-    { name: 'Ilham Muh Kofa S.Tr.Kom.', position: 'HR Manager', imageUrl: '/tim/Ilham.jpg' },
-    { name: 'Dexy Alfaro S.Tr.Kom.', position: 'HRD Manager', imageUrl: '/tim/Dexy.jpg' },
-    { name: 'Ilham Muh Kofa S.Tr.Kom.', position: 'HR Manager', imageUrl: '/tim/Ilham.jpg' },
-    { name: 'Dexy Alfaro S.Tr.Kom.', position: 'HRD Manager', imageUrl: '/tim/Dexy.jpg' },
-    { name: 'Ilham Muh Kofa S.Tr.Kom.', position: 'HR Manager', imageUrl: '/tim/Ilham.jpg' },
+    { name: 'NAMA ORANG', position: 'HR Manager', imageUrl: '/tim/PP.jpg' },
+    { name: 'NAMA ORANG', position: 'HRD Manager', imageUrl: '/tim/PP.jpg' },
+    { name: 'NAMA ORANG', position: 'HR Manager', imageUrl: '/tim/PP.jpg' },
+    { name: 'NAMA ORANG', position: 'HRD Manager', imageUrl: '/tim/PP.jpg' },
+    { name: 'NAMA ORANG', position: 'HR Manager', imageUrl: '/tim/PP.jpg' },
   ],
   otherTeam: [
     { name: '1', imageUrl: '/tim/tim1.jpg' },
