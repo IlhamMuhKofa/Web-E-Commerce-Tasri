@@ -15,14 +15,14 @@ const teamData = {
     { name: 'NAMA ORANG', position: 'HR Manager', imageUrl: '/tim/PP.jpg' },
   ],
   otherTeam: [
-    { name: '1', imageUrl: '/tim/tim1.jpg' },
-    { name: '2', imageUrl: '/tim/tim2.JPEG' },
-    { name: '3', imageUrl: '/tim/tim3.1.jpg' },
-    { name: '4', imageUrl: '/tim/tim3.jpeg' },
-    { name: '5', imageUrl: '/tim/tim4.jpg' },
-    { name: '6', imageUrl: '/tim/tim5.jpg' },
-    { name: '7', imageUrl: '/tim/tim1.jpg' },
-    { name: '8', imageUrl: '/tim/tim3.1.jpg' },
+    { name: 'Team 1', imageUrl: '/tim/TEAM.jpg' },
+    { name: 'Team 2', imageUrl: '/tim/TEAM.jpg' },
+    { name: 'Team 3', imageUrl: '/tim/TEAM.jpg' },
+    { name: 'Team 4', imageUrl: '/tim/TEAM.jpg' },
+    { name: 'Team 5', imageUrl: '/tim/TEAM.jpg' },
+    { name: 'Team 6', imageUrl: '/tim/TEAM.jpg' },
+    { name: 'Team 7', imageUrl: '/tim/TEAM.jpg' },
+    { name: 'Team 8', imageUrl: '/tim/TEAM.jpg' },
   ],
 };
 
