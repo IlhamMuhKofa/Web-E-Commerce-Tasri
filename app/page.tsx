@@ -22,7 +22,7 @@ export default function Home() {
         <Map/>
       </section>
       <section>
-        <Events />
+        {/* <Events /> */}
       </section>
       <section>
         <TestimonialsSection/>
